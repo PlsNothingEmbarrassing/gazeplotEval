@@ -1,3 +1,0 @@
-EDFAPI_LIB="c:/Program Files (x86)/SR Research/EyeLink/libs"
-EDFAPI_INC = "C:\Program Files (x86)\SR Research\EyeLink\Includes\eyelink"
-EDFAPI_LIB64 = "C:\Program Files (x86)\SR Research\EyeLink\libs\x64"
